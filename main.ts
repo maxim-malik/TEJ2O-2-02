@@ -5,4 +5,4 @@
  * This program Shows my name
 */
 
-basic.showString('Max')
+basic.showString('SMTHS')
