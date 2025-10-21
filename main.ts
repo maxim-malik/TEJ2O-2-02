@@ -2,7 +2,7 @@
  *
  * Created by: Max
  * Created on: Sep 2025
- * This program Shows my name
+ * This program shows the schools name
 */
 
 basic.showString('SMTHS')
